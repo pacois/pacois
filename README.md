@@ -10,7 +10,7 @@ Interesado por aprender sobre arquitecturas de servicios.
 
 **💼 Soy Profesor en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
 
-**🌱 Uso OS :** 
+**🌱 OS :** 
 
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 
@@ -24,19 +24,19 @@ Interesado por aprender sobre arquitecturas de servicios.
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://camunda.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/camunda/camunda-ar21.svg"></a></code>
 
-**🌱 Looking forward to learn:**
+**🌱 Quiero aprender:**
 
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 
 <div align="center">
 
-**📫 Reach me at:**<br>
+**📫 Contacto:**<br>
 
 [![Linkedin: Paco Ibanez](https://img.shields.io/badge/-pacoIs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-francisco-i-9897b959/)](https://www.linkedin.com/in/juan-francisco-i-9897b959/)
-[![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
 [![GitHub: Paco Ibanez](https://img.shields.io/github/followers/pacoIS?label=pacois&style=social)](https://github.com/pacois)
 
 <div align="center">
@@ -45,5 +45,3 @@ Interesado por aprender sobre arquitecturas de servicios.
 
 </div>  
 
-
-⭐️ From [Mohitp98](https://github.com/Mohitp98)
