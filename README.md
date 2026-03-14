@@ -17,6 +17,8 @@ Interesado por aprender sobre arquitecturas de servicios.
 **🌱 Desarrollo y sigo aprendiendo:**
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://https://nodejs.org/en" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
+<code><a href="https://https://kotlinlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
 <code><a href="https://https://www.npmjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
