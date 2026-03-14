@@ -2,15 +2,13 @@
 
 
 <p align="center">
-Soy Informatico  vivo Mexicali:Baja California:. interesado en Linux. actualmente inicio a aprendiendo nuevas tecnologias
+Soy Informatico  vivo Mexicali:Baja California 🇲🇽:
 </p>
 <p align="center">
-Interesado por aprender sobre arquitecturas de servicios 🇲🇽
+Interesado por aprender sobre arquitecturas de servicios.
 </p>
 
-**💼 Actualmente trabajo como:**
-
-Docente en <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>ITMexicali</b></a>
+**💼 Soy Profesor en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
 
 **🌱 Currently working on:**
 
