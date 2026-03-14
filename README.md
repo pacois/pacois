@@ -35,10 +35,9 @@ Interesado por aprender sobre arquitecturas de servicios.
 
 **📫 Reach me at:**<br>
 
-[![Linkedin: Mohit Patil](https://img.shields.io/badge/-Mohitp98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/mp98/)
-<a href="https://instagram.com/_mohitp_" target="_blank"><img src="https://img.shields.io/badge/@_mohitp98_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Linkedin: Paco Ibanez](https://img.shields.io/badge/-pacoIs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-francisco-i-9897b959/)](https://www.linkedin.com/in/juan-francisco-i-9897b959/)
 [![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
-[![GitHub: Paco Ibanez](https://img.shields.io/github/followers/Mohitp98?label=pacois&style=social)](https://github.com/pacois)
+[![GitHub: Paco Ibanez](https://img.shields.io/github/followers/pacoIS?label=pacois&style=social)](https://github.com/pacois)
 
 <div align="center">
 
