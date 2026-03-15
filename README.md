@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hola México! :earth_america:</b></h1>
+<h1 align= "center"><b>Hola México! 🌎:</b></h1>
 
 
 <p align="center">
