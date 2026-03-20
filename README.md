@@ -5,7 +5,7 @@
 Soy Informatico  vivo Mexicali:Baja California 🇲🇽:
 </p>
 <p align="center">
-Interesado por aprender sobre arquitecturas de servicios.
+Interesado en nuevas tecnologías y arquitecturas.
 </p>
 
 **💼 Soy Profesor en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
