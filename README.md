@@ -5,10 +5,13 @@
 Soy Informatico  vivo Mexicali:Baja California 🇲🇽:
 </p>
 <p align="center">
-Interesado en nuevas tecnologías y arquitecturas.
+Interesado en Administración Educativa, nuevas tecnologías y arquitecturas.
 </p>
 
-**💼 Soy Profesor en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
+**💼 Profesor en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
+**💼 Subdirector de Planeación en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
+**💼 Subdirector Academico en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
+**💼 Subdirector de Academico en:** <a href="https://www.itensenada.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
 
 **🌱 OS :** 
 
