@@ -8,12 +8,9 @@ Soy Informatico  vivo Mexicali:Baja California 🇲🇽:
 Interesado en Administración Educativa, nuevas tecnologías y arquitecturas.
 </p>
 
-**💼 Profesor en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
-**💼 Subdirector de Planeación en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
-**💼 Subdirector Academico en:** <a href="https://www.itmexicali.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
-**💼 Subdirector de Academico en:** <a href="https://www.itensenada.edu.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a>
+**💼 Profesor en:** <a href="https://www.mexicali.tecnm.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a><br>
 
-**🌱 OS :** 
+**🌱 Uso OS :** 
 
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 
