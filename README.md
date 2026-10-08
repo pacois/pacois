@@ -8,7 +8,7 @@ Soy Informatico  vivo Mexicali:Baja California 🇲🇽:
 Interesado en Administración Educativa, nuevas tecnologías y arquitecturas.
 </p>
 
-**💼 Profesor en:** <a href="https://www.mexicali.tecnm.mx/" target="_blank"><b>Tecnologico NAcional de México => IT Mexicali</b></a><br>
+**💼 Profesor en:** <a href="https://www.mexicali.tecnm.mx/" target="_blank"><b>TecNM => Instituto Tecnológico de Mexicali</b></a><br>
 
 **🌱 Uso OS :** 
 
